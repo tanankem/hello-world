@@ -2,7 +2,7 @@
 
 
 
-I've never seen such a beautiful landscape.
+Hi guys, I really do like atom editor.
 
 It is incredible I use git.
 
